@@ -1,0 +1,71 @@
+// /* slider */
+
+//       .home{
+//         padding:0;
+//         padding-top: 7.6rem;
+    
+//         .home-slider{
+    
+//             .slide{
+//                 min-height: 65vh;
+//                 display: flex;
+//                 align-items: center;
+//                 padding:2rem;
+//                 padding-left: 7%;
+//                 background-size: cover !important;
+//                 background-position: center !important;
+    
+//                 .content{
+    
+//                     span{
+//                         font-size: 2rem;
+//                         color:$light-color;
+//                     }
+    
+//                     h3{
+//                         font-size: 6rem;
+//                         color:$black;
+//                         padding-top: .5rem;
+//                     }
+    
+//                 }
+    
+//             }
+    
+//         }
+    
+//         .swiper-button-next{
+//             top:90%;
+//             right:2rem;
+//         }
+    
+//         .swiper-button-prev{
+//             top:90%;
+//             right:8rem;
+//             left:auto;
+//         }
+    
+//     }
+    
+//     .swiper-button-next,
+//     .swiper-button-prev{
+//         height:5rem;
+//         width:5rem;
+//         border-radius: .5rem;
+//         background:#fff;
+//         box-shadow: $box-shadow;
+//         border:$border;
+//         color:$black;
+    
+//         &:hover{
+//             background: $black;
+//             color:#fff;
+//         }
+    
+//     }
+    
+//     .swiper-button-next::after,
+//     .swiper-button-prev::after{
+//         font-size: 2rem;
+//     }
+
